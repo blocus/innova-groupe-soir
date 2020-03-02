@@ -1,3 +1,4 @@
+console.log("Hello from main.js");
 var a;
 
 var a = 12;
@@ -33,7 +34,8 @@ let ahmed = null
 var raouf = console.log(a);
 console.log(b);
 console.log(c);
-console.log(d);
+console.log(d);            console.log("Hello from main.js");
+
 console.log("d is", typeof d);
 console.log("pi is", typeof pi);
 console.log("tab is", typeof tab);
