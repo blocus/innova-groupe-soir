@@ -1,0 +1,26 @@
+.navbar{
+	background: rgba(127, 96, 228);
+}
+
+.navbar-brand img {
+	height: 32px;
+}
+
+.navbar-brand:hover{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.btn-test{
+	font-weight: 500;
+	color: #c9fcd3;
+	border-color: #c9fcd3;
+}
+
+.btn-test:hover{
+	background: #c9fcd3;
+}
+
+.welcome-section{
+	height: calc(100vh - 60px);
+	background: #abc123;
+}
